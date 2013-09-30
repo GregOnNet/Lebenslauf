@@ -133,20 +133,24 @@
 	margin: 0 0 0 -25px;
 }
 
-.cbp_tmicon-phone:before {
-	content: "\e005";
+.cbp_tmicon-books:before {
+	content: "\e000";
 }
 
-.cbp_tmicon-screen:before {
+.cbp_tmicon-community:before {
 	content: "\e001";
 }
 
-.cbp_tmicon-mail:before {
+.cbp_tmicon-html:before {
 	content: "\e002";
 }
 
-.cbp_tmicon-earth:before {
+.cbp_tmicon-education:before {
 	content: "\e003";
+}
+
+.cbp_tmicon-wordpress:before {
+	content: "\e004";
 }
 
 /* Example Media Queries */
