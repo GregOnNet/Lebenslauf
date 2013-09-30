@@ -9,7 +9,9 @@ Studentenleben
 Softwareschmiede Commundo Tagungshotels
 - responsive design
 - single page applications
+- restful http apis
 - collective code ownership
+- git
 - continuous integration
 
 Impulse aus der Community
