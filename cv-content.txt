@@ -7,7 +7,10 @@ Studentenleben
 - Erfinde das Studieren neu
 
 Softwareschmiede Commundo Tagungshotels
-- 
+- responsive design
+- single page applications
+- collective code ownership
+- continuous integration
 
 Impulse aus der Community
 - .NET Usergroup
