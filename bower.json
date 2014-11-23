@@ -1,0 +1,17 @@
+{
+  "name": "lebenslauf",
+  "version": "1.0.1",
+  "homepage": "https://github.com/GregOnNet/Lebenslauf",
+  "authors": [
+    "Gregor Woiwode <gregor.woiwode@gmail.com>"
+  ],
+  "description": "my responsive curriculum vitae",
+  "main": "index.html",
+  "keywords": [
+    "curriculum",
+    "vitae",
+    "fant-awesome"
+  ],
+  "license": "MIT",
+  "private": true
+}
