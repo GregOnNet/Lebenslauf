@@ -13,5 +13,8 @@
     "fant-awesome"
   ],
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "font-awesome": "~4.2.0"
+  }
 }
